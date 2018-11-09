@@ -32,7 +32,7 @@ For complete list of changes, view our [Changelog](CHANGELOG.md)
 ## How to Get It
 
 ### Windows
-* [Download binaries](docs/use_precompiled.md)
+* [Download binaries](docs/use_precompiled)
 * [Build it](docs/build_windows.md)
 
 ### Linux
